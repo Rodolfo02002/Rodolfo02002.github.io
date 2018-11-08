@@ -4,7 +4,7 @@ title: 12 dead in california bar shooting
 ---
 <h1> 12 dead in california bar shooting</h1>
 
-(![_config.yml]({{ site.baseurl }}/images/12.jpg)
+(![_config.yml]({{ site.baseurl }}/images/download.jpg)
 What happened: A gunman opened fire at the Borderline Bar & Grill in Thousand Oaks, California, late Wednesday night.
 Eyewitnesses say the man fired at people in a packed bar during college night.
 Shooter Ian David Long’s mother “lived in fear” of what her son might do, 
