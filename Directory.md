@@ -26,5 +26,4 @@ permalink: /about/
  * [Alexia R](https://alexia2402.github.io/)
  * [Jasmine G](jazm1ne.github.io)
 
- * [Click me!]()
- 
+
