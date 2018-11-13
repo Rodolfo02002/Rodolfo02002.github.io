@@ -1,12 +1,9 @@
   ---
 layout: page
-title: About
-permalink: /about/
+title: Intermidiate Web Programming
+permalink: /Directory/
 ---
-
-  [Click me!](http://test.com/)
-  
-  #My Classmates  
+  # My Classmates  
   
  * [Valentin M](https://valentin430.github.io/) 
  * [Francisco S](https://francisco214.github.io/)
