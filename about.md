@@ -3,12 +3,25 @@ layout: page
 title: About
 permalink: /about/
 ---
+<h1>My Resume</h1>
 
-Some information about you!
+<h2> Rodolfo Manriquez</h2>
+ <p>Contact: YEET@gmail.com</p>
+ 
+<h3>Skills</h3>
+ <ul>
+    <li>Drawing</li>
+        <li>Design</li>
+    <li>Programming</li>
+    <li>Critical thinker</li>
+  </ul>
+  
+<h4>Education</h4>
+ <ul>
+    <li>W.E. Greiner</li>
+    <li>Franklin D. Roosevelt</li>
+</ul>
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
