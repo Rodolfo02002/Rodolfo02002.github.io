@@ -1,4 +1,4 @@
-  ---
+---
 layout: page
 title: Intermidiate Web Programming
 permalink: /Directory/
